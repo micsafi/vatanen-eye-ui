@@ -1,0 +1,3 @@
+curl -X POST -d @mami-eye-dataexample_modified.json https://mami-red.eu-gb.mybluemix.net/mami/eye --header "Content-Type:application/json"
+
+curl -X POST -d @mami-eye-dataexample.json https://mami-red.eu-gb.mybluemix.net/mami/eye --header "Content-Type:application/json"

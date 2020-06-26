@@ -1,0 +1,14 @@
+{
+  "badgetype": "Henkilökortin tyyppi",
+  "IBM_Visitor_Badge": "IBM-vierailijakortti",
+  "IBM_Office_Badge": "IBM-henkilökortti",
+  "gender": "Sukupuoli",
+  "MALE": "Mies",
+  "FEMALE": "Nainen",
+  "firstname": "Etunimi",
+  "lastname": "Sukunimi",
+  "age": "Ikä",
+  "class": "Luokka",
+  "NOT_AVAILABLE": "Ei tiedossa",
+  "No_person_infocus": "En näe henkilöä"
+}
